@@ -42,7 +42,7 @@ The project includes experiments with:
 
 This project demonstrates practical experience with PyTorch-based computer vision workflows, including model implementation, training, validation, cross-validation and evaluation of neural network performance.
 
-It is relevant to broader research interests in computer vision, deep learning, model evaluation and reliable machine learning systems.
+This project supports my broader interest in computer vision, deep learning, model evaluation and reliable machine learning systems.
 
 ## Academic Context
 This repository contains coursework developed for a Computer Vision class. It is shared as part of an academic portfolio.
